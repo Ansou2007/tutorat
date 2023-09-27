@@ -1,0 +1,22 @@
+Algo: Exo3_Methode1
+Declaration
+variables:
+a,b,somme:entier
+Debut
+Ecrire('Saisir les entiers');
+Lire(a,b)
+somme<-a+b
+Afficher('la somme donne',somme)
+Fin
+
+
+Algo: Exo3_Methode2
+Declaration
+variables:
+a,b:entier
+Debut
+Ecrire('Saisir les entiers');
+Lire(a,b)
+Ecrire('la somme donne',a+b)
+Fin
+
